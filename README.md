@@ -155,6 +155,6 @@ Public Domain
 |U+E0000-E007F|Tags|◎|
 
 ## Created by
-希土類元素レアアース (Kidoruigenso Rareearth)
-kidoruigenso@gmail.com
-https://sourceforge.net/p/jis2004/wiki/
+* 希土類元素レアアース (Kidoruigenso Rareearth)
+* kidoruigenso@gmail.com
+* https://sourceforge.net/p/jis2004/wiki/

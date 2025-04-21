@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.52; [4.5.2.0] - 2018-12-15
+- Unicode 12.0絵文字と記号追加、絵文字修正
+- Support Unicode 12.0 emojis, fixed emojis and...
+
 ## 4.51; [4.5.1.0] - 2018-05-07
 - Unicode 11.0絵文字対応、平成の次対応、L2/18-170将棋絵文字追加、絵文字修正
 - Support Unicode 11.0 emojis, next era, L2/18-170 shogi emojis, fixed emojis and...
