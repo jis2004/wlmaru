@@ -1,0 +1,90 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    tags:
+      - "v*"
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+   release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set original String
+        run: |
+          REPLACED=${{github.ref_name}}
+          REPLACED2=${REPLACED//./}
+          REPLACED3=${REPLACED2//v/}
+          echo "REPLACED=$REPLACED3" >> $GITHUB_ENV
+      - uses: actions/checkout@master
+      # 出力ファイルを圧縮
+      - name: Compress bundle
+        run: |
+          mkdir -p artifacts
+          cd wlmaru2004emoji
+          zip -r ../artifacts/wlmaru2004emoji${{env.REPLACED}}.zip . -i wlmaru2004emoji.ttf wlmaru2004emoji.txt
+          cd ../wlmaru2004emojip
+          zip -r ../artifacts/wlmaru2004emojip${{env.REPLACED}}.zip . -i wlmaru2004emojip.ttf wlmaru2004emojip.txt
+          cd ../wlcmaru2004emoji
+          zip -r ../artifacts/wlcmaru2004emoji${{env.REPLACED}}.zip . -i wlcmaru2004emoji.ttf wlcmaru2004emoji.txt
+          cd ../wlcmaru2004emojip
+          zip -r ../artifacts/wlcmaru2004emojip${{env.REPLACED}}.zip . -i wlcmaru2004emojip.ttf wlcmaru2004emojip.txt
+          cd ../
+      
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: false
+          prerelease: false
+
+      - name: Upload release wlmaru2004emoji
+        uses: actions/upload-release-asset@v1.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./artifacts/wlmaru2004emoji${{env.REPLACED}}.zip
+          asset_name: wlmaru2004emoji${{env.REPLACED}}.zip
+          asset_content_type: application/zip
+          
+      - name: Upload release wlmaru2004emojip
+        uses: actions/upload-release-asset@v1.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./artifacts/wlmaru2004emojip${{env.REPLACED}}.zip
+          asset_name: wlmaru2004emojip${{env.REPLACED}}.zip
+          asset_content_type: application/zip
+
+      - name: Upload release wlcmaru2004emoji
+        uses: actions/upload-release-asset@v1.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./artifacts/wlcmaru2004emoji${{env.REPLACED}}.zip
+          asset_name: wlcmaru2004emoji${{env.REPLACED}}.zip
+          asset_content_type: application/zip
+          
+      - name: Upload release wlcmaru2004emojip
+        uses: actions/upload-release-asset@v1.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./artifacts/wlcmaru2004emojip${{env.REPLACED}}.zip
+          asset_name: wlcmaru2004emojip${{env.REPLACED}}.zip
+          asset_content_type: application/zip
+
+
