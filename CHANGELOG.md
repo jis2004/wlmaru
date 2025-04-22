@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.56; [4.5.6.0] - 2020-02-24
+- Unicode13.0の絵文字に対応、絵文字や文字の修正、日などの漢字を変更しています
+- Support Unicode 13.0 emojis, and fixed some characters.
+
 ## 4.55; [4.5.5.0] - 2019-04-03
 - U+F9A8の令にも対応
 - Add U+F9A8 (Rei)
