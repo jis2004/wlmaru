@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.71; [4.7.1.0] - 2025-03-20
+- Unicode17,0追加予定の絵文字追加、IVSでのCJK互換漢字対応、IVSのAdobeJapan1でのJIS2000文字への切り替え対応、カタカナやアルファベットと部首を組み合わせた文字追加、タイ文字、友引・赤口記号、追加錬金術記号、legacy computing記号、沿ドニエストルルーブル記号、サウジアラビアリヤル記号など追加、絵文字や漢字など変更など
+- Emojis to be added to Unicode17.0, CJK compatible kanji support in IVS, IVS support for switching to JIS2000 characters in AdobeJapan1, addition of characters combining katakana and alphabet with radicals, Thai characters, Tomobiki and Shakko symbols, additional alchemy symbols, legacy computing symbols, Transnistrian ruble symbol, Saudi Arabian riyal symbol, etc., changes to emojis, kanji, etc.
+
 ## 4.70; [4.7.0.0] - 2024-01-28
 - Unicode 15.1対応、Unicode 16.0追加予定絵文字と記号追加、しまくとぅば正書法対応、麻雀牌などの絵文字変更、絵文字記号の追加など
 - Support Unicode 15.1, Add Unicode 16.0 emojis, change Mahjong tiles and other emojis, 23-193R2, 23-220, etc.
