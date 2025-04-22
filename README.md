@@ -156,5 +156,4 @@ Public Domain
 
 ## Created by
 * 希土類元素レアアース (Kidoruigenso Rareearth)
-* kidoruigenso@gmail.com
 * https://sourceforge.net/p/jis2004/wiki/
