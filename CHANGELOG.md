@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.60; [4.6.0.0] - 2022-03-09
+- 追加予定のlegacy computing記号の731文字追加、Macの最新のOSで縦書き字形で表示される問題対応、リエル記号修正、パソコンやメールボックスなどの絵文字修正、数学記号異体字対応、罫線の位置ズレ修正など
+- Add legacy computing symbols characters in future, Corresponding to the problem of displaying characters in vertical writing style on the latest Mac operating systems. Riel Symbol Correction, Emoji modification for computers, mailboxes, etc, Math symbol variant support, Correction of ruled line misalignment, and so on.
+
 ## 4.59; [4.5.9.0] - 2022-01-31
 - Unicode 15.0絵文字追加、準惑星記号追加、占星術記号追加、Smalltalk記号追加、ハート字形変更（追加絵文字：Wi-Fi、九芒星、水色ハート、灰色ハート、ピンクハート、マラカス、フルート、扇子、櫛、KHANDA、ヒヤシンス、クラゲ、羽、鴉、アヒル、ヘラジカ、ロバ、生姜、枝豆、ガクブル、左手押し、右手押し）
 - Add Unicode 15.0 emojis, Add dwarf planet symbol, Add astrology symbol. Add smalltalk symbol, Change heart shape
