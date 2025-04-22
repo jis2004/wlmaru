@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.59; [4.5.9.0] - 2022-01-31
+- Unicode 15.0絵文字追加、準惑星記号追加、占星術記号追加、Smalltalk記号追加、ハート字形変更（追加絵文字：Wi-Fi、九芒星、水色ハート、灰色ハート、ピンクハート、マラカス、フルート、扇子、櫛、KHANDA、ヒヤシンス、クラゲ、羽、鴉、アヒル、ヘラジカ、ロバ、生姜、枝豆、ガクブル、左手押し、右手押し）
+- Add Unicode 15.0 emojis, Add dwarf planet symbol, Add astrology symbol. Add smalltalk symbol, Change heart shape
+
 ## 4.58; [4.5.8.0] - 2021-09-20
 - Unicode 14.0絵文字対応、Unicode 14.0追加仮名の追加、Unicode 14.0追加記号の追加、音楽記号の修正、一部の絵文字の変更
 - Added Unicode 14.0 emojis support, add Unicode 14.0 Kanas, add Unicode 14.0 Symbols, fixed Music Symbols, Fixed some characters and emojis.
