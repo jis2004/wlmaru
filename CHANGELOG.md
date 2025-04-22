@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.55; [4.5.5.0] - 2019-04-03
+- U+F9A8の令にも対応
+- Add U+F9A8 (Rei)
+
 ## 4.54; [4.5.4.0] - 2019-04-01
 - 新元号の令和U+32FF（Unicode 12.1）に対応、文字修正
 - New Japanese Era Reiwa (U+32FF) support(Unicode 12.1)
