@@ -1,92 +1,92 @@
-˜a“cŒ¤’†ŠÛƒSƒVƒbƒN2004ŠG•¶ŽšiUnicode”Åji“™•ƒtƒHƒ“ƒgj
-ƒo[ƒWƒ‡ƒ“ 4.56; 4.5.6.0
+$BOBED8&Cf4]%4%7%C%/(B2004$B3(J8;z!J(BUnicode$BHG!K!JEyI}%U%)%s%H!K(B
+$B%P!<%8%g%s(B 4.57; 4.5.7.0
 
-›ŠT—v
-‚±‚ÌƒtƒHƒ“ƒg‚Íftp.ipl.t.u-tokyo.ac.jp‚Å–³žŒöŠJ‚³‚ê‚Ä‚¢‚éu˜a“cŒ¤v‚ª§
-ì‚µ‚½u×ŠÛƒSƒVƒbƒN‘Ìv‚ðŒ³‚É‚µ‚ÄATTF‚É‹@ŠB“I‚É•ÏŠ·‚µA‚»‚ê‚¼‚êuT.Fu
-jiwarav‚³‚ñ‚Ìì‚ç‚ê‚½ƒVƒtƒgJIS2000Œ`Ž®‚Ìu–¾’©2000Pv‚ÌƒtƒHƒ“ƒg‚Ì‚»‚ê‚¼
-‚ê‚É“–‚Ä‚Í‚Ü‚é‚æ‚¤‚É•¶Žš‚ðŠ„‚è“–‚ÄA‘«‚è‚È‚¢•¶Žš‚â‹L†‚ðŠó“y—ÞŒ³‘fƒŒƒAƒA
-[ƒX‚ªŽ©ì’Ç‰Á‚µ‚½‚à‚Ì‚Å‚·B
-UnicodeƒtƒH[ƒ}ƒbƒg‚É•ÏŠ·‚µ‚½˜a“cŒ¤×ŠÛƒSƒVƒbƒN20044ƒtƒHƒ“ƒg‚ÉARIB‚Ì‹KŠi
-‚É‚ ‚é•¶Žš‚Æ‹@ŽíˆË‘¶•¶Žš‚ÆŒg‘Ñ“d˜b‚ÌŠG•¶Žš‚ðUnicode 6.0.0‚Ì‹KŠi‚Å“ü‚ê‚Ü
-‚µ‚½B‚»‚êˆÈŠO‚ÌŠG•¶Žš—Þ‚à’Ç‰Á‚µ‚Ä‚¢‚Ü‚·B•¶Žš‚Ì‘¾‚³‚ð‘¾‚­‚µ‚Ü‚µ‚½B
+$B!{35MW(B
+$B$3$N%U%)%s%H$O(Bftp.ipl.t.u-tokyo.ac.jp$B$GL5=~8x3+$5$l$F$$$k!VOBED8&!W$,@)(B
+$B:n$7$?!V:Y4]%4%7%C%/BN!W$r85$K$7$F!"(BTTF$B$K5!3#E*$KJQ49$7!"$=$l$>$l!V(BT.Fu
+jiwara$B!W$5$s$N:n$i$l$?%7%U%H(BJIS2000$B7A<0$N!VL@D+(B2000P$B!W$N%U%)%s%H$N$=$l$>(B
+$B$l$KEv$F$O$^$k$h$&$KJ8;z$r3d$jEv$F!"B-$j$J$$J8;z$d5-9f$r4uEZN`85AG%l%"%"(B
+$B!<%9$,<+:nDI2C$7$?$b$N$G$9!#(B
+Unicode$B%U%)!<%^%C%H$KJQ49$7$?OBED8&:Y4]%4%7%C%/(B20044$B%U%)%s%H$K(BARIB$B$N5,3J(B
+$B$K$"$kJ8;z$H5!<o0MB8J8;z$H7HBSEEOC$N3(J8;z$r(BUnicode 6.0.0$B$N5,3J$GF~$l$^(B
+$B$7$?!#$=$l0J30$N3(J8;zN`$bDI2C$7$F$$$^$9!#J8;z$NB@$5$rB@$/$7$^$7$?!#(B
 
-Windows 2000AWindows XPAWindows VistaAWindows 7AWindows 8A
-Windows 10AMac OS X‚ÅŽg‚¦‚é‚Æ‚¨‚à‚¢‚Ü‚·B 
-UNIX‚âLinux‚ÌOS‚âAndroid‚È‚Ç‚Ìƒ‚ƒoƒCƒ‹OS‚È‚Ç‚Å‚àŽg‚¦‚é‚æ‚¤‚Å‚·B
+Windows 2000$B!"(BWindows XP$B!"(BWindows Vista$B!"(BWindows 7$B!"(BWindows 8$B!"(B
+Windows 10$B!"(BMac OS X$B$G;H$($k$H$*$b$$$^$9!#(B 
+UNIX$B$d(BLinux$B$N(BOS$B$d(BAndroid$B$J$I$N%b%P%$%k(BOS$B$J$I$G$b;H$($k$h$&$G$9!#(B
 
-‚±‚ÌƒtƒHƒ“ƒg‚É‚æ‚èo—Í‚³‚ê‚é•¶Žš‚â‹L†‚Í‰æ‘œAo”Å•¨A»•i“™‚Ì¤—pA”ñ¤
-—p‚ÉŠÖ‚í‚ç‚¸Ž©—R‚É—˜—p‚Å‚«‚Ü‚·B
+$B$3$N%U%)%s%H$K$h$j=PNO$5$l$kJ8;z$d5-9f$O2hA|!"=PHGJ*!"@=IJEy$N>&MQ!"Hs>&(B
+$BMQ$K4X$o$i$:<+M3$KMxMQ$G$-$^$9!#(B
 
-›ƒCƒ“ƒXƒg[ƒ‹•û–@
-EWindows‚Ìê‡
-@EWindows 98ANTA2000AMeAXP
-ƒfƒXƒNƒgƒbƒv‚Ìuƒ}ƒC@ƒRƒ“ƒsƒ…[ƒ^v‚©‚çWindowsƒhƒ‰ƒCƒuiDOS/VŒÝŠ·‹@‚âPC
-98NX‚È‚Ç‚Ì‚g‚c‚Å‚Íuc:vAPC9821‚È‚Ç‚Å‚Íua:v‚Å‚ ‚é‰Â”\«‚ª‚‚¢‚Å‚·j
-‚Ìuwindows\fontsvƒtƒHƒ‹ƒ_‚ðŠJ‚«iWindowsNT‚Ìê‡‚Íuwinnt\fontsvj‚ð
-ŠJ‚«ƒƒjƒ…[‚Ìuƒtƒ@ƒCƒ‹v‚©‚çuV‚µ‚¢ƒtƒHƒ“ƒg‚ðƒCƒ“ƒXƒg[ƒ‹v‚Å‰ð“€‚µ‚½
-ƒtƒHƒ“ƒg‚ð‘I‘ð‚µ‚ÄOK‚·‚ê‚ÎƒCƒ“ƒXƒg[ƒ‹‚³‚ê‚Ü‚·ifontsƒtƒHƒ‹ƒ_‚É‰ð“€‚µ‚½
-wlmaru2004emoji.ttf‚ðƒhƒ‰ƒbƒO•ƒhƒƒbƒv‚µ‚Ä‚àƒCƒ“ƒXƒg[ƒ‹‚Å‚«‚Ü‚·j
-iŒÃ‚¢ƒo[ƒWƒ‡ƒ“‚Ì“¯‚¶–¼‘O‚ÌƒtƒHƒ“ƒg‚ª‚ ‚éê‡‚Í‚ ‚ç‚©‚¶‚ßŒÃ‚¢ƒo[ƒWƒ‡ƒ“
-‚ÌƒtƒHƒ“ƒg‚ðƒAƒ“ƒCƒ“ƒXƒg[ƒ‹‚µ‚Ä‚©‚çV‚½‚ÉƒCƒ“ƒXƒg[ƒ‹‚µ‚Ä‚­‚¾‚³‚¢Bj
-@EWIndows VistaA7A8A10
-ƒtƒHƒ“ƒgƒtƒ@ƒCƒ‹‚ðŠJ‚¢‚½ŒãAƒtƒHƒ“ƒg‚ÌƒCƒ“ƒXƒg[ƒ‹ƒ{ƒ^ƒ“‚æ‚èƒCƒ“ƒXƒg[ƒ‹
-‚µ‚Ä‚­‚¾‚³‚¢B
+$B!{%$%s%9%H!<%kJ}K!(B
+$B!&(BWindows$B$N>l9g(B
+$B!!!&(BWindows 98$B!"(BNT$B!"(B2000$B!"(BMe$B!"(BXP
+$B%G%9%/%H%C%W$N!V%^%$!!%3%s%T%e!<%?!W$+$i(BWindows$B%I%i%$%V!J(BDOS/V$B8_495!$d(BPC
+98NX$B$J$I$N#H#D$G$O!V(Bc:$B!W!"(BPC9821$B$J$I$G$O!V(Ba:$B!W$G$"$k2DG=@-$,9b$$$G$9!K(B
+$B$N!V(Bwindows\fonts$B!W%U%)%k%@$r3+$-!J(BWindowsNT$B$N>l9g$O!V(Bwinnt\fonts$B!W!K$r(B
+$B3+$-%a%K%e!<$N!V%U%!%$%k!W$+$i!V?7$7$$%U%)%s%H$r%$%s%9%H!<%k!W$G2rE`$7$?(B
+$B%U%)%s%H$rA*Br$7$F(BOK$B$9$l$P%$%s%9%H!<%k$5$l$^$9!J(Bfonts$B%U%)%k%@$K2rE`$7$?(B
+wlmaru2004emoji.ttf$B$r%I%i%C%0!u%I%m%C%W$7$F$b%$%s%9%H!<%k$G$-$^$9!K(B
+$B!J8E$$%P!<%8%g%s$NF1$8L>A0$N%U%)%s%H$,$"$k>l9g$O$"$i$+$8$a8E$$%P!<%8%g%s(B
+$B$N%U%)%s%H$r%"%s%$%s%9%H!<%k$7$F$+$i?7$?$K%$%s%9%H!<%k$7$F$/$@$5$$!#!K(B
+$B!!!&(BWIndows Vista$B!"(B7$B!"(B8$B!"(B10
+$B%U%)%s%H%U%!%$%k$r3+$$$?8e!"%U%)%s%H$N%$%s%9%H!<%k%\%?%s$h$j%$%s%9%H!<%k(B
+$B$7$F$/$@$5$$!#(B
 
-EMac OS X‚Ìê‡
-@E10.2ˆÈ‘O
-‚·‚×‚Ä‚Ìƒ†[ƒU‚ÅŽg—p‚·‚éê‡‚Íu/Library/Fontsv‚ÉƒRƒs[‚µ‚Ü‚·AŒ»Ý‚Ìƒ†
-[ƒU‚Ì‚Ý‚ªŽg—p‚·‚é‚É‚Íu~/Library/Fonts/v‚ÉƒRƒs[‚µ‚Ü‚·B
-@E10.3ˆÈ~
-ƒtƒHƒ“ƒgƒtƒ@ƒCƒ‹‚ðŠJ‚¢‚½ŒãAuƒtƒHƒ“ƒg‚ðƒCƒ“ƒXƒg[ƒ‹vƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚Ä‚­‚¾
-‚³‚¢B
+$B!&(BMac OS X$B$N>l9g(B
+$B!!!&(B10.2$B0JA0(B
+$B$9$Y$F$N%f!<%6$G;HMQ$9$k>l9g$O!V(B/Library/Fonts$B!W$K%3%T!<$7$^$9!"8=:_$N%f(B
+$B!<%6$N$_$,;HMQ$9$k$K$O!V(B~/Library/Fonts/$B!W$K%3%T!<$7$^$9!#(B
+$B!!!&(B10.3$B0J9_(B
+$B%U%)%s%H%U%!%$%k$r3+$$$?8e!"!V%U%)%s%H$r%$%s%9%H!<%k!W%\%?%s$r2!$7$F$/$@(B
+$B$5$$!#(B
 
-›î•ñ
-ƒtƒHƒ“ƒg–¼Ìi“ú–{Œêj
-	˜a“cŒ¤’†ŠÛƒSƒVƒbƒN2004ŠG•¶Žš
-ƒtƒHƒ“ƒg–¼Ìi‰pŒêj
+$B!{>pJs(B
+$B%U%)%s%HL>>N!JF|K\8l!K(B
+	$BOBED8&Cf4]%4%7%C%/(B2004$B3(J8;z(B
+$B%U%)%s%HL>>N!J1Q8l!K(B
 	WadaLabChuMaruGo2004Emoji
-ƒtƒ@ƒCƒ‹–¼
+$B%U%!%$%kL>(B
 	wlcmaru2004emoji.ttf
-Œ³ƒtƒHƒ“ƒg§ì
-	˜a“cŒ¤
-ƒtƒHƒ“ƒg§ì
-	Šó“y—ÞŒ³‘fƒŒƒAƒA[ƒX
-ƒtƒHƒ“ƒgŒ`Ž®
-	“™•
-ƒtƒHƒ“ƒgƒtƒH[ƒ}ƒbƒg
-	Unicode 13.1.0
-ƒtƒHƒ“ƒgƒo[ƒWƒ‡ƒ“
-	4.56; 4.5.6.0
-‰”ÅŒöŠJ“ú
+$B85%U%)%s%H@):n(B
+	$BOBED8&(B
+$B%U%)%s%H@):n(B
+	$B4uEZN`85AG%l%"%"!<%9(B
+$B%U%)%s%H7A<0(B
+	$BEyI}(B
+$B%U%)%s%H%U%)!<%^%C%H(B
+	Unicode 14.0.0
+$B%U%)%s%H%P!<%8%g%s(B
+	4.57; 4.5.7.0
+$B=iHG8x3+F|(B
 	2010/11/14
-‚±‚Ìƒo[ƒWƒ‡ƒ“‚ÌŒöŠJ“ú
-	2020/02/24
-“®ìŠÂ‹«
-	Windows2000CXPCVistaC7C‚WC10AMac OS X‚È‚Ç
-“à—e
-	JIS X 0213:2004 ‘æ‚P…€`‘æ‚S…€AARIBŠ¿Žš‚Æ‹L†AWindows‚ÆMac‚Ì‹@Ží
-	ˆË‘¶•¶ŽšAi-modeAEZWebASoftbank‚ÌŠG•¶Žš‚Ì‚¤‚¿Unicode 6.0.0‚ÉŽû˜^‚³‚ê‚½
-	•¶ŽšAUnicode 12.0‚ÌŠG•¶Žš‚â‹L†—Þ
-	ARIBŠOŽš‚Ìƒ}ƒbƒsƒ“ƒO‚ÍARIB STD-B24‚ÌUnicodeŽÀ‘•Žd—l‚ÆUnicode 5.2
-	‚Ìƒ_ƒuƒ‹ƒ}ƒbƒsƒ“ƒO‚Å‚·B
+$B$3$N%P!<%8%g%s$N8x3+F|(B
+	2021/01/19
+$BF0:n4D6-(B
+	Windows2000$B!$(BXP$B!$(BVista$B!$(B7$B!$#8!$(B10$B!"(BMac OS X$B$J$I(B
+$BFbMF(B
+	JIS X 0213:2004 $BBh#1?e=`!ABh#4?e=`!"(BARIB$B4A;z$H5-9f!"(BWindows$B$H(BMac$B$N5!<o(B
+	$B0MB8J8;z!"(Bi-mode$B!"(BEZWeb$B!"(BSoftbank$B$N3(J8;z$N$&$A(BUnicode 6.0.0$B$K<}O?$5$l$?(B
+	$BJ8;z!"(BUnicode 14.0$B$N3(J8;z$d5-9fN`(B
+	ARIB$B30;z$N%^%C%T%s%0$O(BARIB STD-B24$B$N(BUnicode$B<BAu;EMM$H(BUnicode 5.2
+	$B$N%@%V%k%^%C%T%s%0$G$9!#(B
 
-›Žg—pðŒ
-‚±‚ÌƒtƒHƒ“ƒg‚ÍƒtƒŠ[ƒtƒHƒ“ƒg‚Å‚·B
-‚¢‚í‚ä‚éƒpƒuƒŠƒbƒNƒhƒƒCƒ“‚Æ“¯‚¶‚Å‚·B
-–³ž‚ÅŽg—p‰Â”\‚Å‚·B
-¤—pE”ñ¤—p‚¢‚¸‚ê‚Å‚à‚¨Žg‚¢’¸‚¯‚Ü‚·B
-‚±‚ÌƒtƒHƒ“ƒg‚ÍÄ”z•z‚ª‰Â”\‚Å‚·B
-‚±‚ÌƒtƒHƒ“ƒg‚Í‰ü•Ï‚ª‰Â”\‚Å‚·B
-¤—p”ñ¤—p‚ÉŠÖ‚í‚ç‚¸‚n‚r‚È‚Ç‚ÉƒCƒ“ƒXƒg[ƒ‹‚µ‚½ó‘Ô‚Å‚Ì”z•z‚à‰Â”\‚Å‚·B 
-‚Ü‚½A‘¼‚Ìƒ\ƒtƒg‚É“Y•t‚â‘g‚Ýž‚ñ‚¾Œ`‚Å‚Ì”z•z‚à‰Â”\‚Å‚·B 
-‚±‚ÌƒtƒHƒ“ƒg‚ðŽg—p‚µ‚Äì¬‚µ‚½‚à‚Ì‚ÉA‚±‚ÌƒtƒHƒ“ƒg‚ðŽg—p‚µ‚½Ž|‚Ì‹LÚ‚Í
-•K—v‚ ‚è‚Ü‚¹‚ñB 
-‚±‚ÌƒtƒHƒ“ƒg‚ðŽg—p‚µ‚Äì¬‚µ‚½‚à‚Ì‚ÉA‚±‚ÌƒtƒHƒ“ƒg‚Ì‹K’è‚ªŒp³‚³‚ê‚é‚±
-‚Æ‚Í‚ ‚è‚Ü‚¹‚ñB 
-‚±‚ÌƒtƒHƒ“ƒg‚ðŽg—p‚âÄ”z•z‚ð‚·‚é‚É‚ ‚½‚Á‚Ä“–•û‚Ö‚ÌŠm”F‚Í•K—v‚ ‚è‚Ü‚¹‚ñB
+$B!{;HMQ>r7o(B
+$B$3$N%U%)%s%H$O%U%j!<%U%)%s%H$G$9!#(B
+$B$$$o$f$k%Q%V%j%C%/%I%a%$%s$HF1$8$G$9!#(B
+$BL5=~$G;HMQ2DG=$G$9!#(B
+$B>&MQ!&Hs>&MQ$$$:$l$G$b$*;H$$D:$1$^$9!#(B
+$B$3$N%U%)%s%H$O:FG[I[$,2DG=$G$9!#(B
+$B$3$N%U%)%s%H$O2~JQ$,2DG=$G$9!#(B
+$B>&MQHs>&MQ$K4X$o$i$:#O#S$J$I$K%$%s%9%H!<%k$7$?>uBV$G$NG[I[$b2DG=$G$9!#(B 
+$B$^$?!"B>$N%=%U%H$KE:IU$dAH$_9~$s$@7A$G$NG[I[$b2DG=$G$9!#(B 
+$B$3$N%U%)%s%H$r;HMQ$7$F:n@.$7$?$b$N$K!"$3$N%U%)%s%H$r;HMQ$7$?;]$N5-:\$O(B
+$BI,MW$"$j$^$;$s!#(B 
+$B$3$N%U%)%s%H$r;HMQ$7$F:n@.$7$?$b$N$K!"$3$N%U%)%s%H$N5,Dj$,7Q>5$5$l$k$3(B
+$B$H$O$"$j$^$;$s!#(B 
+$B$3$N%U%)%s%H$r;HMQ$d:FG[I[$r$9$k$K$"$?$C$FEvJ}$X$N3NG'$OI,MW$"$j$^$;$s!#(B
 
-‰½‚©‚ ‚è‚Ü‚µ‚½‚çŠó“y—ÞŒ³‘fƒŒƒAƒA[ƒXˆ¶‚Ä‚É˜A—‚ð‚¨Šè‚¢‚µ‚Ü‚·B
+$B2?$+$"$j$^$7$?$i4uEZN`85AG%l%"%"!<%908$F$KO"Mm$r$*4j$$$7$^$9!#(B
 kidoruigenso@gmail.com
 https://ja.osdn.net/projects/jis2004/wiki/FrontPage
 

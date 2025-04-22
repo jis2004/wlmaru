@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.57; [4.5.7.0] - 2021-01-19
+- Unicode 13.1絵文字追加、Unicode 14.0絵文字（予定）追加、易経記号追加、八声符号（予定）追加、一部の文字の修正、一部の絵文字の変更
+- Add Unicode 13.1 emojis, Unicode 14.0 emojis, Yijing Hexagram Symbols, and taiwanese kana tone marks (future). Fixed some characters and emojis.
+
 ## 4.56; [4.5.6.0] - 2020-02-24
 - Unicode13.0の絵文字に対応、絵文字や文字の修正、日などの漢字を変更しています
 - Support Unicode 13.0 emojis, and fixed some characters.
