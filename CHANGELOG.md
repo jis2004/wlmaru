@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.54; [4.5.4.0] - 2019-04-01
+- 新元号の令和U+32FF（Unicode 12.1）に対応、文字修正
+- New Japanese Era Reiwa (U+32FF) support(Unicode 12.1)
+
 ## 4.53; [4.5.3.0] - 2019-03-07
 - Unicode12.0対応、L2/19-025モザイク記号対応、圧縮をZIPに変更、合成用濁点半濁点対応、縦書き対応、合字追加、文字修正、モザイク記号関連記号の全サイズ化、ケータイなどの絵文字変更など
 - Unicode 12.0 Emojis Support, L2/19-025 Terminal characters Support. Vertical Character Support, any letters and characters and Symbols Fixed, and changed compression to zip format
