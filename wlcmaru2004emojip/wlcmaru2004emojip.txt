@@ -1,5 +1,5 @@
 和田研中丸ゴシック2004絵文字P（Unicode版）（プロポーショナルフォント）
-バージョン 4.60; 4.6.0.0
+バージョン 4.70; 4.7.0.0
 
 ○概要
 このフォントはftp.ipl.t.u-tokyo.ac.jpで無償公開されている「和田研」が制
@@ -8,8 +8,8 @@ jiwara」さんの作られたシフトJIS2000形式の「明朝2000P」のフォントのそれぞ
 れに当てはまるように文字を割り当て、足りない文字や記号を希土類元素レアア
 ースが自作追加したものです。
 Unicodeフォーマットに変換した和田研細丸ゴシック20044フォントにARIBの規格
-にある文字と機種依存文字と携帯電話の絵文字をUnicode 6.0.0の規格で入れま
-した。それ以外の絵文字類も追加しています。
+にある文字と機種依存文字と携帯電話の絵文字をUnicodeの規格で入れました。
+それ以外の絵文字類も追加しています。
 
 Windows 2000、Windows XP、Windows Vista、Windows 7、Windows 8、
 Windows 10、Windows 11、Mac OS Xで使えるとおもいます。
@@ -55,19 +55,19 @@ wlmaru2004emoji.ttfをドラッグ＆ドロップしてもインストールできます）
 フォント形式
 	等幅
 フォントフォーマット
-	Unicode 14.0.0
+	Unicode 15.0.0
 フォントバージョン
-	4.60; 4.6.0.0
+	4.70; 4.7.0.0
 初版公開日
 	2013/6/17
 このバージョンの公開日
-	2022/03/09
+	2024/01/28
 動作環境
 	Windows2000，XP，Vista，7，８，10、11、Mac OS Xなど
 内容
 	JIS X 0213:2004 第１水準～第４水準、ARIB漢字と記号、WindowsとMacの機種
 	依存文字、i-mode、EZWeb、Softbankの絵文字のうちUnicode 6.0.0に収録された
-	文字、Unicode 14.0の絵文字や記号類
+	文字、Unicode 15.0の絵文字や記号類
 	ARIB外字のマッピングはARIB STD-B24のUnicode実装仕様とUnicode 5.2
 	のダブルマッピングです。
 
@@ -88,5 +88,5 @@ wlmaru2004emoji.ttfをドラッグ＆ドロップしてもインストールできます）
 
 何かありましたら希土類元素レアアース宛てに連絡をお願いします。
 kidoruigenso@gmail.com
-https://ja.osdn.net/projects/jis2004/wiki/FrontPage
+https://sourceforge.net/p/jis2004/wiki/
 

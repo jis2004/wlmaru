@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.70; [4.7.0.0] - 2024-01-28
+- Unicode 15.1対応、Unicode 16.0追加予定絵文字と記号追加、しまくとぅば正書法対応、麻雀牌などの絵文字変更、絵文字記号の追加など
+- Support Unicode 15.1, Add Unicode 16.0 emojis, change Mahjong tiles and other emojis, 23-193R2, 23-220, etc.
+
 ## 4.60; [4.6.0.0] - 2022-03-09
 - 追加予定のlegacy computing記号の731文字追加、Macの最新のOSで縦書き字形で表示される問題対応、リエル記号修正、パソコンやメールボックスなどの絵文字修正、数学記号異体字対応、罫線の位置ズレ修正など
 - Add legacy computing symbols characters in future, Corresponding to the problem of displaying characters in vertical writing style on the latest Mac operating systems. Riel Symbol Correction, Emoji modification for computers, mailboxes, etc, Math symbol variant support, Correction of ruled line misalignment, and so on.
